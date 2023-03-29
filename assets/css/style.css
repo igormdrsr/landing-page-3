@@ -302,3 +302,9 @@ footer p{
         gap: 2rem;
     }
 }
+
+@media screen and (max-width: 454px){
+    .btn{
+        padding: 1rem 1.6rem;
+    }
+}
